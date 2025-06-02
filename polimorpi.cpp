@@ -15,3 +15,11 @@ class ijul :public seseorang{
         }
 };
 
+class ilham :public seseorang{
+    public:
+        void pesan(){
+            cout << "chat from ilham" << endl;
+        }
+};
+
+int m
