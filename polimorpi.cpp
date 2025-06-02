@@ -22,4 +22,6 @@ class ilham :public seseorang{
         }
 };
 
-int m
+int main(){
+    
+}
