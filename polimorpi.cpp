@@ -25,4 +25,5 @@ class ilham :public seseorang{
 int main(){
     seseorang* obyek;
     ijul a;
+    ilham b;
 }
