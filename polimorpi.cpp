@@ -33,4 +33,4 @@ int main(){
     obyek->pesan();
 
     return 0;
-}  
+}
