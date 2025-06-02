@@ -26,4 +26,11 @@ int main(){
     seseorang* obyek;
     ijul a;
     ilham b;
+
+    obyek = &a;
+    obyek->pesan();
+    obyek = &b;
+    obyek->pesan();
+    
+    return 0;
 } 
