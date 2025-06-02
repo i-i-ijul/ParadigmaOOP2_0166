@@ -8,6 +8,13 @@ class seseorang{
     }
 };
 
+class ijul :public seseorang{
+    public:
+        void pesan(){
+            cout << "chat from ijul" << endl;
+        }
+};
+
 int main(){
     
 }
