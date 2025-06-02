@@ -15,6 +15,3 @@ class ijul :public seseorang{
         }
 };
 
-int main(){
-    
-}
