@@ -16,5 +16,8 @@ class derivedClass : public baseClass{ //gabisa dipanggil karena si baseclass ud
 };
 
 int main(){
-    
+    derivedClass a;
+    a.perkenalan();
+
+    return 0;
 }
